@@ -118,25 +118,25 @@ img{
 
 
 #slider1:target ~ .imgContainer{
-    left: 60%;
+    left: 39%;
 }
 #slider2:target ~ .imgContainer{
-    left: 40%;
+    left: 26%;
 }
 #slider3:target ~ .imgContainer{
-    left: 20%;
+    left: 14%;
 }
 #slider4:target ~ .imgContainer{
-    left: 0%;
+    left: 2%;
 }
 #slider5:target ~ .imgContainer{
-    left: -20%;
+    left: -12%;
 }
 #slider6:target ~ .imgContainer{
-    left: -40%;
+    left: -24%;
 }
 #slider7:target ~ .imgContainer{
-    left: -60%;
+    left: -37%;
 }
 
 
